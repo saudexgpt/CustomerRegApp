@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-demo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

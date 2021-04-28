@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "phone": "08098545421",
+    "address": "Lagos",
+    "region": "South-South"
+  },
+  {
+    "id": 2,
+    "name": "Mary Jane",
+    "phone": "08063254178",
+    "address": "Port Harcourt",
+    "region": "South-South"
+  },
+  {
+    "id": 3,
+    "name": "Mike Harrison",
+    "phone": "08074859652",
+    "address": "Enugu",
+    "region": "South-East"
+  },
+  {
+    "id": 4,
+    "name": "Ogechi Muoghalu",
+    "phone": "08096524178",
+    "address": "Lagos",
+    "region": "South-West"
+  },
+  {
+    "id": 5,
+    "name": "Ifeoluwa Kehinde",
+    "phone": "08032541605",
+    "address": "Aba",
+    "region": "South-East"
+  },
+  {
+    "id": 6,
+    "name": "John Mark",
+    "phone": "08098545406",
+    "address": "Lagos",
+    "region": "South-West"
+  },
+  {
+    "id": 7,
+    "name": "Martha Jane",
+    "phone": "08063254107",
+    "address": "Port Harcourt",
+    "region": "South-South"
+  },
+  {
+    "id": 8,
+    "name": "Joshua Harrison",
+    "phone": "08074859608",
+    "address": "Enugu",
+    "region": "South-East"
+  },
+  {
+    "id": 9,
+    "name": "Nneka Muoghalu",
+    "phone": "08096524109",
+    "address": "Lagos",
+    "region": "South-West"
+  },
+  {
+    "id": 10,
+    "name": "Tony Kehinde",
+    "phone": "08032541610",
+    "address": "Aba",
+    "region": "South-East"
+  }
+]

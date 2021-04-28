@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Samuel Udoh",
+    "email": "admin@demo.com",
+    "phone": "07032659895",
+    "password": "password",
+    "tk": "4464646454",
+    "roles": ["Administrator"],
+    "permissions": [
+      "create-customers",
+      "read-customers",
+      "update-customers",
+      "delete-customers"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Abraham Akpan",
+    "email": "frontend@demo.com",
+    "phone": "07063524185",
+    "password": "password",
+    "tk": "23121212131",
+    "roles": ["Frontend Developer"],
+    "permissions": [
+      "create-customers",
+      "read-customers",
+      "update-customers",
+      "delete-customers"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alex Igonor",
+    "email": "backend1@demo.com",
+    "phone": "07096857452",
+    "password": "password",
+    "tk": "5454654654",
+    "roles": ["Backend Developer"],
+    "permissions": [
+      "create-customers",
+      "read-customers",
+      "update-customers",
+      "delete-customers"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ezekiel Obioma",
+    "email": "backend2@demo.com",
+    "phone": "07063419576",
+    "password": "password",
+    "tk": "8979798798",
+    "roles": ["Backend Developer"],
+    "permissions": [
+      "create-customers",
+      "read-customers",
+      "update-customers",
+      "delete-customers"
+    ]
+  }
+]
